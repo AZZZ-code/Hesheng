@@ -1,0 +1,9 @@
+/build/
+/dist/
+**/bin/
+**/obj/
+settings.json
+settings.json.tmp
+config.ini
+*.user
+
